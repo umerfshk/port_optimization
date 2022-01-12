@@ -35,3 +35,5 @@ csv file
  3. matplotlib.pyplot as plt
  4. yfinance as yf
  5. seaborn as sns
+
+edit
