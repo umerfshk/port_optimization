@@ -1,7 +1,10 @@
+
 # port_optimization
 **Portfolio optimisation of multiple stocks by changing Tickers **
 
 Creating multple backtesting of randomized portfolios for Modern portfolio theory.  
+
+![Port_opt_stocks](https://user-images.githubusercontent.com/97597482/149336534-b6ce8257-eb66-4fd7-84c6-3632af5ccede.png)
 
 **Steps** 
 
